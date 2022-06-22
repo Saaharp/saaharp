@@ -132,7 +132,7 @@
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=fdc6b7"/>
 					</a>	
 				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+				<p><strong>JavaScript, CSS3, HTML5</strong> - Description.</p>
 			</div>
 		</td>
 		<td width="50%">
