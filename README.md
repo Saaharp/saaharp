@@ -106,14 +106,14 @@
 					<br>
 					<br>
 					<p>
-						<a href="#" target="_blank">
+						<a href="" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=760e11"/>
 						</a>  
-						<a href="#" target="_blank">
+						<a href="https://curlsandcoils.netlify.app" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=fdc6b7"/>
 						</a>	
 					</p>
-					 <p><strong>JavaScript, CSS3, HTML5</strong> - Description </p>
+					 <p><strong>JavaScript, CSS3, HTML5</strong> - Curls & Coils Hair Salon </p>
 				</div>
 	<tr>
 		<td width="50%">
@@ -125,14 +125,14 @@
 				<br>
 				<br>
 				<p>
-					<a href="#" target="_blank">
+					<a href="https://github.com/Saaharp/nfl-app" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=760e11"/>
 					</a>  
-					<a href="#" target="_blank">
+					<a href="https://football-app-api.herokuapp.com/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=fdc6b7"/>
 					</a>	
 				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - Description.</p>
+				<p><strong>Node.js, CSS3, HTML5, JavaScript</strong> - NFL Team Names API.</p>
 			</div>
 		</td>
 		<td width="50%">
@@ -144,14 +144,14 @@
 				<br>
 				<br>
 				<p>
-					<a href="#" target="_blank">
+					<a href="https://github.com/Saaharp/api-meal-db" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=760e11"/>
 					</a>  
-					<a href="#" target="_blank">
+					<a href="https://whatareyoueating.netlify.app" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=fdc6b7"/>
 					</a>	
 				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - Description.</p>
+				<p><strong>JavaScript, CSS3, HTML5</strong> - Random Recipes API</p>
 			</div>	
 		</td>
 	</table>
