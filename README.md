@@ -87,7 +87,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/Saaharp/star-trek-api" target="_blank">
+						<a href="https://github.com/Saaharp/star-trek-api" target="_blank"/>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=760e11"/>
 						</a>  
 						<a href="https://aliensfieldguide.netlify.app/" target="_blank">
