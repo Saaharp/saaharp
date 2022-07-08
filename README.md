@@ -82,7 +82,7 @@
 				<h3 align="center" color="white">Project #1</h2>
 				<div align="center" >  
 					<a href='#'>
-						<img src="https://user-images.githubusercontent.com/102547132/169406624-29645953-9221-40c3-8971-cf98cbff6f15.jpg" alt="Project 1" height="100%" />
+						<img src="https://user-images.githubusercontent.com/102547132/178042747-492f57c8-1cf3-42f6-89c2-d6f11c72d62e.gif" alt="Project 1" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -94,7 +94,7 @@
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=fdc6b7"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Description </p>
+					<p><strong>Node.js, Express, MongoDB</strong> - Federation Field Guide to Aliens </p>
 				</div>
 			</td>
 			<td width="50%">
