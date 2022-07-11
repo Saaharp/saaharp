@@ -98,7 +98,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="" target="_blank">
+						<a href="https://github.com/Saaharp/curlsandcoils" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=760e11"/>
 						</a>  
 						<a href="https://curlsandcoils.netlify.app" target="_blank">
