@@ -9,7 +9,7 @@
 
 
 
-<img align="center" alt="Shakia" width="1000" align="center" src="https://user-images.githubusercontent.com/102547132/169400920-4072847f-7fd9-43c5-9f7f-54a79f6d5bfe.png">
+<!-- <img align="center" alt="Shakia" width="1000" align="center" src="https://user-images.githubusercontent.com/102547132/169400920-4072847f-7fd9-43c5-9f7f-54a79f6d5bfe.png"> -->
 <h1 align="center">I'm a full-stack developer based in Houston, TX</h1>
 
 <!-- TECHNOLOGIES -->
