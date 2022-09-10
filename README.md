@@ -4,12 +4,9 @@
  ![alien_AdobeExpress](https://user-images.githubusercontent.com/102547132/178330146-418cfac4-b26f-4608-9b16-f2d653f29cea.gif)
 ![nfl_AdobeExpress](https://user-images.githubusercontent.com/102547132/178331546-a0e89239-2b88-49df-b5ce-688fd3506aab.gif)
 ![recipe](https://user-images.githubusercontent.com/102547132/178332768-20ebdcc8-c1d4-445f-9051-efb0cd966748.gif)
+![github2](https://user-images.githubusercontent.com/102547132/189492897-d18d03d7-f3ab-4976-93ce-0166ac0210cd.png)-->
 
--->
-
-
-
-<img align="center" alt="Shakia" width="1000" align="center" src="https://user-images.githubusercontent.com/102547132/169400920-4072847f-7fd9-43c5-9f7f-54a79f6d5bfe.png">
+<img align="center" alt="Shakia" width="1000" align="center" src="https://user-images.githubusercontent.com/102547132/189492897-d18d03d7-f3ab-4976-93ce-0166ac0210cd.png">
 <h1 align="center">I'm a full-stack developer based in Houston, TX</h1>
 
 <!-- TECHNOLOGIES -->
