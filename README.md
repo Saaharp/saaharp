@@ -71,7 +71,7 @@
 				<h3 align="center" color="white">Project #1</h2>
 				<div align="center" >  
 					<a href='#'>
-						<img src="https://user-images.githubusercontent.com/102547132/178042747-492f57c8-1cf3-42f6-89c2-d6f11c72d62e.gif" alt="Project 1" height="220px" />
+						<img src="https://user-images.githubusercontent.com/102547132/178042747-492f57c8-1cf3-42f6-89c2-d6f11c72d62e.gif" alt="Project 1" height="" />
 					</a>
 					<br>
 					<br>
@@ -90,7 +90,7 @@
 				<h3 align="center" color="white">Project #2</h2>
 				<div align="center" >  
 					<a href='#'>
-						<img src="https://user-images.githubusercontent.com/102547132/178329563-c2e3471c-568f-46b9-a733-d862b4cc2424.gif" alt="Project2" height="225px" />
+						<img src="https://user-images.githubusercontent.com/102547132/178329563-c2e3471c-568f-46b9-a733-d862b4cc2424.gif" alt="Project2" height="" />
 					</a>
 					<br>
 					<br>
@@ -109,7 +109,7 @@
 			<h3 align="center" color="brown">Portfolio #3</h2>
 			<div align="center" >  
 				<a href='#'>
-					<img src="https://user-images.githubusercontent.com/102547132/178331546-a0e89239-2b88-49df-b5ce-688fd3506aab.gif" height="225px" />
+					<img src="https://user-images.githubusercontent.com/102547132/178331546-a0e89239-2b88-49df-b5ce-688fd3506aab.gif" alt="Project3" height="" />
 				</a>
 				<br>
 				<br>
@@ -128,7 +128,7 @@
 			<h3 align="center" color="white">Project #4</h2>
 			<div align="center" >  
 				<a href='#'>
-					<img src="https://user-images.githubusercontent.com/102547132/178332768-20ebdcc8-c1d4-445f-9051-efb0cd966748.gif" alt="#" height="225px" />
+					<img src="https://user-images.githubusercontent.com/102547132/178332768-20ebdcc8-c1d4-445f-9051-efb0cd966748.gif" alt="Project4" height="" />
 				</a>
 				<br>
 				<br>
