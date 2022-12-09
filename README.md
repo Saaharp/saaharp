@@ -71,76 +71,76 @@
 				<h3 align="center" color="white">Project #1</h2>
 				<div align="center" >  
 					<a href='#'>
-						<img src="https://user-images.githubusercontent.com/102547132/178042747-492f57c8-1cf3-42f6-89c2-d6f11c72d62e.gif" alt="Project 1" height="" />
+						<img src="https://user-images.githubusercontent.com/102547132/206805031-d8138293-b056-4738-a915-cb233d24a723.gif" alt="Project 1" height="" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/Saaharp/star-trek-api" target="_blank"/>
+						<a href="https://github.com/Saaharp/the-hotel-helper" target="_blank"/>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=760e11"/>
 						</a>  
-						<a href="https://aliensfieldguide.netlify.app/" target="_blank">
+						<a href="https://hotelhelper.cyclic.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=fdc6b7"/>
 						</a>	
 					</p>
-					<p><strong>Node.js, Express, MongoDB</strong> - Federation Field Guide</p>
+					<p><strong>Node.js, Express, MongoDB</strong> - The Hotel Helper</p>
 				</div>
 			</td>
 			<td width="50%">
 				<h3 align="center" color="white">Project #2</h2>
 				<div align="center" >  
 					<a href='#'>
-						<img src="https://user-images.githubusercontent.com/102547132/178329563-c2e3471c-568f-46b9-a733-d862b4cc2424.gif" alt="Project2" height="" />
+						<img src="https://user-images.githubusercontent.com/102547132/205132354-409549e9-75f6-4d66-bdef-8737ea0d3738.gif" alt="Project2" height="" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/Saaharp/curlsandcoils" target="_blank">
+						<a href="https://github.com/Saaharp/Java-Xpress" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=760e11"/>
 						</a>  
-						<a href="https://curlsandcoils.netlify.app" target="_blank">
+						<a href="https://javaxpress.cyclic.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=fdc6b7"/>
 						</a>	
 					</p>
-					 <p><strong>JavaScript, CSS3, HTML5</strong> - Curls & Coils Hair Salon </p>
+					 <p><strong>JavaScript, MongoDB, Node.js</strong> - Java Xpress Order Queue </p>
 				</div>
 	<tr>
 		<td width="50%">
 			<h3 align="center" color="brown">Portfolio #3</h2>
 			<div align="center" >  
 				<a href='#'>
-					<img src="https://user-images.githubusercontent.com/102547132/178331546-a0e89239-2b88-49df-b5ce-688fd3506aab.gif" alt="Project3" height="" />
+					<img src="https://user-images.githubusercontent.com/102547132/206803750-1a78376b-c5c4-4c57-863e-cb84bb6f6c6c.gif" alt="Project3" height="" />
 				</a>
 				<br>
 				<br>
 				<p>
-					<a href="https://github.com/Saaharp/nfl-app" target="_blank">
+					<a href="https://github.com/Saaharp/apod" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=760e11"/>
 					</a>  
-					<a href="https://football-app-api.herokuapp.com/" target="_blank">
+					<a href="https://hac-apod.netlify.app/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=fdc6b7"/>
 					</a>	
 				</p>
-				<p><strong>Node.js, CSS3, HTML5, JavaScript</strong> - Team Names API.</p>
+				<p><strong>CSS3, HTML5, JavaScript</strong> - Houston Astronomy Club API.</p>
 			</div>
 		</td>
 		<td width="50%">
 			<h3 align="center" color="white">Project #4</h2>
 			<div align="center" >  
 				<a href='#'>
-					<img src="https://user-images.githubusercontent.com/102547132/178332768-20ebdcc8-c1d4-445f-9051-efb0cd966748.gif" alt="Project4" height="" />
+					<img src="https://user-images.githubusercontent.com/102547132/178042747-492f57c8-1cf3-42f6-89c2-d6f11c72d62e.gif" alt="Project4" height="" />
 				</a>
 				<br>
 				<br>
 				<p>
-					<a href="https://github.com/Saaharp/api-meal-db" target="_blank">
+					<a href="https://github.com/Saaharp/star-trek-api" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=760e11"/>
 					</a>  
-					<a href="https://whatareyoueating.netlify.app" target="_blank">
+					<a href="https://aliensfieldguide.netlify.app/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=fdc6b7"/>
 					</a>	
 				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - Random Recipes API</p>
+				<p><strong>Node.js, Express, MongoDB</strong> - Federation Field Guide</p>
 			</div>	
 		</td>
 	</table>
